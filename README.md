@@ -1,7 +1,3 @@
-Here’s the GitHub README in a similar format:
-
----
-
 <h1 align="center">👩‍💻 Brunda Anantha</h1>
 <h3 align="center">Data Analytics and Visualization Graduate Student | Data Enthusiast</h3>
 <p align="center">
