@@ -5,7 +5,7 @@
   <br>
   🎓 M.S. in Data Analytics and Visualization at Yeshiva University (2023-2024)
   <br>
-  🛠️ Skilled in Python, Power BI, SQL, and AWS Cloud Technologies
+  🛠️ Skilled in Python, SQL, Tableau, PowerBI and AWS Cloud Technologies
   <br>
   🌱 Currently exploring advanced data visualization techniques and machine learning models
   <br>
@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/brunda08anantha">LinkedIn</a> •
-  <a href="mailto:brunda08anantha@gmail.com">Email</a>
+  <a href="mailto:brundaanantha1@gmail.com">Email</a>
 </p>
 
 ---
