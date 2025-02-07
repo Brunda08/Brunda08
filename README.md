@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Brunda Anantha</h1>
-<h3 align="center">Data Analytics and Visualization Graduate Student | Data Enthusiast</h3>
+<h3 align="center">Data Analyst |  Transforming Data with Python, SQL, and Power BI | Data Visualization | Certified AWS Practitioner</h3>
 <p align="center">
     📊 Passionate about turning raw data into actionable insights and solving complex problems
   <br>
