@@ -22,10 +22,10 @@
 
 ### 🛠️ **Skills**  
 
-- **Programming Languages:** Python (pandas, XGBoost, NumPy, Matplotlib, Seaborn), SQL, R, HTML, CSS  
-- **Frameworks:** Robot Framework, Selenium, TensorFlow, scikit-learn  
-- **Cloud Technologies:** AWS (Glue, S3, Lambda, EC2, RDS), Azure, GCP  
-- **Database Management:** MySQL, PostgreSQL, MongoDB  
+- **Programming Languages:** Python , SQL
+- **Packages & Libraries:** : NumPy, Pandas, Matplotlib, Scipy, ggplot2, Seaborn, Plotly, scikit-learn, TensorFlow, PySpark 
+- **Cloud Technologies:** AWS (Glue, S3, Lambda, EC2, RDS) 
+- **Database Management:** MySQL, PostgreSQL, Oracle, MongoDB, Amazon Redshift, SQL Serve
 - **Data Analysis & Processing:** Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA)  
 - **Data Visualization Tools:** Power BI, Tableau, AWS QuickSight, Excel  
 
@@ -42,36 +42,31 @@
 
 ---
 
-### 🚀 **Projects**  
-
-- **Data-Driven Growth: Customer Insights for Acquisition and Retention**  
-  - Conducted sales and customer data analysis for a coffee store to enhance marketing strategies  
-  - Built an interactive Power BI dashboard to visualize metrics like Average Order Value and seasonal trends  
-
-- **Student Dropout Predictions**  
-  - Performed data cleaning and feature engineering, improving data quality by 20%  
-  - Developed an XGBoost Classifier model, achieving a 99.76% accuracy rate  
-
-- **AWS ETL Data Pipeline**  
-  - Designed ETL pipelines using AWS Glue, S3, and Lambda, improving data processing efficiency by 30%  
-  - Built dashboards in Amazon QuickSight for real-time insights  
-
-- **Database Security**  
-  - Implemented SQL-based access controls for sensitive healthcare data  
-  - Improved data privacy compliance by 35% through enforced access policies  
-
----
-
 ### 💼 **Experience**  
 
-**DXC Technology**  
-*Business Analyst Associate* (08/2022 – 12/2022)  
-- Automated data workflows using Python, reducing manual efforts by 30%  
-- Created automated reports and dashboards with SQL and Python  
+**Universal Health Services**  
+*Data Analyst * (06/2024 – Present)  
+- Wrote SQL queries, stored procedures, and functions to extract meaningful insights from large healthcare datasets.
+- Led Projects in all phases of the project life cycle including data acquisition, data cleaning, pre-processing feature engineering, statistical analysis, exploratory data analysis, model building, and testing and validation, and data visualization.
+- Implemented customer relationship management data within CRM systems, providing customized solutions to improve customer relations and organize communication processes.
+- Used Pandas, NumPy, SciPy, scikit-Learn and Matplotlib in Python for developing various machine learning algorithms, applying statistical and predictive modeling concepts.
+- Developed and maintained PL/SQL scripts for data extraction, transformation, and loading (ETL) processes.
+- Utilized Power BI (DAX) to visually represent healthcare data, creating interactive dashboards that improved data accessibility for 200+ non-technical stakeholders, reducing report generation time by 40%.
+- Performed ETL operations to carry out data transactions over AWS and PySpark and execute Hive analytics.
+- Configured SAP modules to streamline complex business processes, leading to 100% departmental integration and improving overall operational efficiency across core systems.  
 
-*Data Science Intern* (05/2022 – 08/2022)  
-- Cleaned and transformed datasets for machine learning  
-- Built and fine-tuned predictive models, improving forecast accuracy by 15%  
+**Streebo Inc**
+*Data Analyst* (08/2020 – 12/2023)  
+- Worked on numerous ad-hoc data pulls for business analysis and monitoring by writing SQL scripts.
+- Proficient in a Range of IDEs including Visual Studio Code and PyCharm, facilitating effective coding and analysis processes.
+- Executed data validation, data profiling, and data cleanup initiatives, improving data quality by 35% and enabling more accurate decision-making.
+- Involved in Data Analysis, Profiling, and Assessment to evaluate data for accuracy and quality using Python and libraries SciPy, NumPy, and Pandas.
+- Developed Spark applications in Python (PySpark) on a distributed environment to efficiently process and load 1TB+ of CSV files with varying schemas into Hive ORC tables, reducing ETL processing time by 50%.
+- Created real-time analytical dashboards in Tableau, delivering instant insights into 15+ critical business metrics and key performance indicators, driving 20% faster executive decision-making.
+- Worked with the Data Warehouse team in developing Dimensional Model and analyzing the ER-Diagrams.
+- Performed analysis and data profiling using complex SQL queries on various source systems including SQL Server, MySQL.
+- Integrated Salesforce CRM to enhance sales workflows, manage over 500 customer interactions monthly, and generate comprehensive reports that improved strategic planning efficiency by 25% across the entire department.
+- Utilized technology such as Excel PowerPivot to query test data and customize end-user requests. 
 
 ---
 
