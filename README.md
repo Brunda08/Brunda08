@@ -3,6 +3,8 @@
 <p align="center">
     📊 Passionate about turning raw data into actionable insights and solving complex problems
   <br>
+  💻 Currently working for Universal Health Services
+  <br>
   🎓 M.S. in Data Analytics and Visualization at Yeshiva University (2023-2024)
   <br>
   🛠️ Skilled in Python, SQL, Tableau, PowerBI and AWS Cloud Technologies
