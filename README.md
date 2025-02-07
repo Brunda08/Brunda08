@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Brunda Anantha</h1>
-<h3 align="center">Data Analyst |  Transforming Data with Python, SQL, and Power BI | Data Visualization | Certified AWS Practitioner</h3>
+<h3 align="center">I am a **Data Analyst** with 3 years of experience in **Python**, **SQL**, and **data visualization** tools like **Tableau** and **Power BI**. I enjoy turning complex data into actionable insights and building interactive dashboards to support data-driven decisions.</h3>
 <p align="center">
     📊 Passionate about turning raw data into actionable insights and solving complex problems
   <br>
