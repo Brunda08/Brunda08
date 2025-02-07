@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/brunda08anantha">LinkedIn</a> •
   <a href="mailto:brundaanantha1@gmail.com">Email</a> •
-  <br> (551) 998 2353  
+  <a (551) 998 2353  </a>
 </p>
 
 ---
