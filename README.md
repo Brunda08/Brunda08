@@ -1,18 +1,6 @@
 <h1 align="center">👩‍💻 Hi, I'm Brunda Anantha!</h1>
 <h3 align="center">Data Analyst</h3>
-<p align="center">
-    📊 Passionate about turning raw data into actionable insights and solving complex problems
-  <br>
-  💻 Currently working for Universal Health Services
-  <br>
-  🎓 M.S. in Data Analytics and Visualization at Yeshiva University (2023-2024)
-  <br>
-  🛠️ Skilled in Python, SQL, Tableau, PowerBI and AWS Cloud Technologies
-  <br>
-  🌱 Currently exploring advanced data visualization techniques and machine learning models
-  <br>
-  🔍 Always looking for opportunities to leverage data to drive impactful decisions
-</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/brunda08anantha">LinkedIn</a> •
   <a href="mailto:brundaanantha1@gmail.com">Email</a> 
@@ -23,9 +11,12 @@
 
 ### 🌟 **About Me**  
 
-- 🌱 Currently enhancing my skills in **Data Analytics and Visualization**  
-- 📫 How to reach me: **brunda08anantha@gmail.com**  
-- 💡 Open to collaborating on data-related projects  
+
+- 📊 Passionate about turning raw data into actionable insights and solving complex problems
+- 💻 Currently working for Universal Health Services
+- 🛠️ Skilled in Python, SQL, Tableau, PowerBI and AWS Cloud Technologies
+- 🌱 Currently exploring advanced data visualization techniques and machine learning models
+- 🔍 Always looking for opportunities to leverage data to drive impactful decisions
 
 ---
 
