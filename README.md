@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Brunda Anantha</h1>
+<h1 align="center">👩‍💻 Hi, I'm Brunda Anantha!</h1>
 <h3 align="center">Data Analyst</h3>
 <p align="center">
     📊 Passionate about turning raw data into actionable insights and solving complex problems
@@ -15,7 +15,8 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/brunda08anantha">LinkedIn</a> •
-  <a href="mailto:brundaanantha1@gmail.com">Email</a>
+  <a href="mailto:brundaanantha1@gmail.com">Email</a> •
+  <br> (551) 998 2353  
 </p>
 
 ---
