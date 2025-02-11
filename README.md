@@ -45,7 +45,7 @@
 ### 💼 **Experience**  
 
 **Universal Health Services**  
-*Data Analyst * (06/2024 – Present)  
+*Data Analyst* (06/2024 – Present)  
 - Wrote SQL queries, stored procedures, and functions to extract meaningful insights from large healthcare datasets.
 - Led Projects in all phases of the project life cycle including data acquisition, data cleaning, pre-processing feature engineering, statistical analysis, exploratory data analysis, model building, and testing and validation, and data visualization.
 - Implemented customer relationship management data within CRM systems, providing customized solutions to improve customer relations and organize communication processes.
