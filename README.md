@@ -55,7 +55,7 @@
 - Performed ETL operations to carry out data transactions over AWS and PySpark and execute Hive analytics.
 - Configured SAP modules to streamline complex business processes, leading to 100% departmental integration and improving overall operational efficiency across core systems.  
 
-**Streebo Inc**
+**Streebo Inc** 
 *Data Analyst* (08/2020 – 12/2022)  
 - Worked on numerous ad-hoc data pulls for business analysis and monitoring by writing SQL scripts.
 - Proficient in a Range of IDEs including Visual Studio Code and PyCharm, facilitating effective coding and analysis processes.
